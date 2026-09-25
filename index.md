@@ -14,7 +14,6 @@
     </style>
 </head>
 <body>
-
     <header>
         <h1>Your Name</h1>
         <p>Prospective Computer Science Major | STEM Portfolio</p>
@@ -23,10 +22,8 @@
             <a href="mailto:youremail@example.com">Contact Me</a>
         </div>
     </header>
-
     <main>
         <h2>Featured Projects</h2>
-
         <!-- Project 1 -->
         <div class="project">
             <h3>Project Title 1</h3>
@@ -39,6 +36,5 @@
             <a href="#" style="color: #0066cc; font-weight: 500;">View Code on GitHub &rarr;</a>
         </div>
     </main>
-
 </body>
 </html>
