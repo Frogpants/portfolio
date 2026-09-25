@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My STEM Portfolio</title>
-    <style>
+    <st
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 40px 20px; background: #f9f9f9; color: #333; }
         header { border-bottom: 2px solid #eee; padding-bottom: 20px; margin-bottom: 40px; }
         h1 { margin: 0; color: #111; }
@@ -15,11 +15,12 @@
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
-        <p>Prospective Computer Science Major | STEM Portfolio</p>
+        <h1>Spencer Lyons</h1>
+        <p>Prospective Physics Major | STEM Portfolio</p>
         <div class="links">
-            <a href="https://github.com" target="_blank">GitHub Profile</a>
-            <a href="mailto:youremail@example.com">Contact Me</a>
+            <a href="https://github.com/Frogpants" target="_blank">GitHub Profile</a>
+            <a href="mailto:spencerjl0309@gmail.com">Contact Me</a>
+            <a href="/pages/Spencer Lyons Resume.pdf">My Resume</a>
         </div>
     </header>
     <main>
